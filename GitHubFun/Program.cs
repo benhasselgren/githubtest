@@ -6,6 +6,8 @@ namespace GitHubFun
     {
         static void Main(string[] args)
         {
+            int number = 0;
+
             Console.WriteLine("Hello World!");
         }
     }
